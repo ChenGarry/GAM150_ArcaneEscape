@@ -5,7 +5,7 @@
 // Project:		ArcaneEscape
 // Course:		GAM150S19-c
 //
-// Copyright � 2019 DigiPen (USA) Corporation.
+// Copyright © 2019 DigiPen (USA) Corporation.
 //
 //------------------------------------------------------------------------------
 
