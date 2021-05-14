@@ -2,8 +2,8 @@
 //
 // File Name:	BehaviorDummy.h
 // Author(s):	Lorenzo DeMaine, Garry Chen
-// Project:		MyGame
-// Course:		CS230S19
+// Project:		ArcaneEscape
+// Course:		GAM150S19-c
 //
 // Copyright � 2019 DigiPen (USA) Corporation.
 //

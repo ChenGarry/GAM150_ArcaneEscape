@@ -2,10 +2,10 @@
 //
 // File Name:	Behavior.h
 // Author(s):	Doug Schilling (dschilling), Qiaochu LIU
-// Project:		MyGame
-// Course:		CS230S19
+// Project:		ArcaneEscape
+// Course:		GAM150S19-c
 //
-// Copyright © 2019 DigiPen (USA) Corporation.
+// Copyright � 2019 DigiPen (USA) Corporation.
 //
 //------------------------------------------------------------------------------
 

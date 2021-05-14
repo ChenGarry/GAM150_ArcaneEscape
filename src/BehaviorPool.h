@@ -2,7 +2,8 @@
 //
 // File Name:	BehaviorPool.h
 // Author(s):	Garry Chen
-// Project:		MyGame
+// Project:		ArcaneEscape
+// Course:		GAM150S19-c
 //
 // Copyright � 2019 DigiPen (USA) Corporation.
 //
