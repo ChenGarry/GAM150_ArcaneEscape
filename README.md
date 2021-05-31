@@ -37,7 +37,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This project is my first custom engine game project. I learned how object oriented game engine communicat and execute amoung its systems.  
+This project is my first custom engine game project. I learned how object oriented game engine communicate and execute among its systems.  
 
 The game is a "single player 2D pixel art side-scrolling fantasy action-platformer with puzzle-like elements including multiple spells interacting with environment."
 
